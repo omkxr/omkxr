@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 - 💬 Ask me about **Python,Html,CSS,JS,Roms,Kernels**
-- 👨‍💻 All of my projects are available at [omkxr.vercel.app](omkxr.vercel.app)
+- 👨‍💻 All of my projects are available at <a href="https://omkxr.vercel.app">omkxr.vercel.app</a>
 - 😄 Pronouns: **IDK**
 -  ⚡ Fun fact **I am post graduated from biochemistry**
 - 📫 How to reach me: <a href="mailto:omkar.xd@gmail.com">![Email Me!!](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/omkar-shinde-65b2851b4/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
