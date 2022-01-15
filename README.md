@@ -31,7 +31,7 @@
 
 ## My Github Grades
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=omkxr&column=8&theme=monokai"/>
+<img src="https://github-profile-trophy.vercel.app/?username=omkxr&column=7&theme=monokai"/>
 </p>
 
 ## Top Languages
