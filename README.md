@@ -1,4 +1,4 @@
-# Hi. I am Omkar Shinde <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi. I am Omkar Shinde <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omkxr&label=Profile%20views&color=0e75b6&style=flat" alt="omkxr" /> </p>
 
 - 🌱 I’m currently learning **Full Stack Web Development**
